@@ -1,0 +1,25 @@
+2020-10-17T18:33:02-04:00	Is there anybody out there, just nod if you can hear me
+2020-10-17T19:24:11-04:00	Thanks @<prologic https://twtxt.net/user/prologic/twtxt.txt>
+2020-10-17T19:26:51-04:00	This is incredible. Simple. Text. Decentralized :-)
+2020-10-17T19:29:31-04:00	There is life after twitter. https://eludom.github.io/blog/goodbye-twitter/
+2020-10-17T20:19:51-04:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#<tsvhqdq https://twtxt.net/search?tag=tsvhqdq>) For now I think I will stay with primitave tools.
+2020-10-17T20:22:01-04:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#<tsvhqdq https://twtxt.net/search?tag=tsvhqdq>) twtxt is so simple one could read with netcat, cat and tail. I like that.
+2020-10-17T20:24:29-04:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#<tsvhqdq https://twtxt.net/search?tag=tsvhqdq>) also the lack of a login and complete decntralization is a big win.
+2020-10-17T20:25:50-04:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#<tsvhqdq https://twtxt.net/search?tag=tsvhqdq>) and the fact that I just used /bin/ed to fix spelling before pushing :-)
+2020-10-18T08:12:17-04:00	#cool #linux 'locate \-r /me$' finds all files ending in '/me'
+2020-10-18T08:37:23-04:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#<tsvhqdq https://twtxt.net/search?tag=tsvhqdq>) I will probably stick with command line client just to make sure it keeps working
+2020-10-18T08:40:57-04:00	(#<tsvhqdq https://twtxt.net/search?tag=tsvhqdq>) one problme I'm seeing already is that the "micro" part is loosing out.  Things are routinely getting longer than 140 characters
+2020-10-18T08:45:01-04:00	(#<tsvhqdq https://twtxt.net/search?tag=tsvhqdq>) One very real problem to be aware of is "Eternal September" https://en.wikipedia.org/wiki/Eternal_September
+2020-10-18T08:55:42-04:00	(#<tsvhqdq https://twtxt.net/search?tag=tsvhqdq>) as the person who motivated CompuServe's USENET gateway https://www.chicagotribune.com/news/ct-xpm-1994-10-07-9410070309-story.html  I've see what happens when the unwashed masses are turned loose in techie playgrounds
+2020-10-18T09:01:30-04:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> what is the exact syntax neeed for threads to work in the subject, e.g. will (#tsvhqdq) do it?  The whole ... (#<tsvhqdq https://...?tag==tsvhqdq>) thing seems like a bit of overkill.  Too many characters.
+2020-10-18T09:06:55-04:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> I tried to sign up @<gmj http://www.port111.com/george/twtxt.txt> on twtxt.net, but it said it was already signed up ... maybe beause of my command line posts? Any way I can claim gmj?
+2020-10-18T09:27:13-04:00	(#<tsvhqdq https://twtxt.net/search?tag=tsvhqdq>) yes.  I read that.  Nice post.  Brave browser at least has trouble with formatting.   The regexp got lost when renederd.  Eww (emacs text browser) doees just fine with it :-)
+2020-10-18T09:29:29-04:00	(#<tsvhqdq https://twtxt.net/search?tag=tsvhqdq>) What flavor or regexp?  I tried here https://regexr.com/ with both PCRE and JavaScript and neither seems quite right.  I'm relatively good with regexps, but they tend to be write-only :-/
+2020-10-18T09:57:59-04:00	(#<67nxkja https://twtxt.net/search?tag=67nxkja>) FWIW, I put up a quick blog last night about using twtxt command line  https://eludom.github.io/blog/hello_twtxt/
+2020-10-18T10:11:01-04:00	(#<tsvhqdq https://twtxt.net/search?tag=tsvhqdq>) in the original twtxt your URL is your identity.  No need for anyone outside your control to do account managment.  One reason I'll likely be sticking with command line.  But, great work
+2020-10-19T07:32:03-04:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> I'\''ve thought through the git issue a bit.  Comments on https://github.com/jointwt/twtxt/issues/38
+2020-10-20T18:57:07-04:00	(5e5ebe) getting back in to https://notmuchmail.org/ for mail. It's pretty slick.
+2020-10-20T18:58:47-04:00	(5e5ebe) tag anything with the word "unsubscribe" by "notmuch tag +unsubscribe unsubscribe"
+2020-10-20T18:59:59-04:00	(5e5ebe) and then ignore it "notmuch search not tag:unsubscribe and date:yesterday.."
+2020-10-20T19:45:39-04:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#<tsvhqdq https://twtxt.net/search?tag=tsvhqdq OK. Im upgrading my tools. twtxt works pretty well inside an Emacs shell window...
+2020-10-20T19:46:43-04:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> are #hashtags a thing on twtxt?
